@@ -44,6 +44,3 @@ addRemove.feature | addRemovedefs.js
 checkout.feature  | checkoutdefs.js
 ```
 
-##
-
-Again, I apologize for the inefficiency due to my lack of experience with Cucumber and Selenium
