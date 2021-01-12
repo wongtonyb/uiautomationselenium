@@ -33,4 +33,17 @@ npm test features/login.feature
 
 Remember to comment out the step_definitions file before moving on to another features file.
 
-Again, I apologize for this lack of efficiency due to my inexperience with Cucumber and Selenium
+## Feature / Step Definitions Files
+
+There are a total of 4 Feature files and 4 corresponding Step Definition Files
+
+```sh
+login.feature / logindefs.js
+sortItems.feature / sortItemsdefs.js
+addRemove.feature / addRemovedefs.js
+checkout.feature / checkoutdefs.js
+```sh
+
+##
+
+Again, I apologize for the inefficiency due to my lack of experience with Cucumber and Selenium
