@@ -18,7 +18,7 @@ Additional VSCode Plugins such as ESLint, Prettier, and Cucumber (Gherkin) Full 
 
 i.e.
 
-Open logindefs.js, the select all and uncomment
+Open logindefs.js, then select all and uncomment
 
 ```sh
 Ctrl + 'a'
