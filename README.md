@@ -38,10 +38,10 @@ Remember to comment out the step_definitions file before moving on to another fe
 There are a total of 4 Feature files and 4 corresponding Step Definition Files
 
 ```sh
-login.feature / logindefs.js
-sortItems.feature / sortItemsdefs.js
-addRemove.feature / addRemovedefs.js
-checkout.feature / checkoutdefs.js
+login.feature     | logindefs.js
+sortItems.feature | sortItemsdefs.js
+addRemove.feature | addRemovedefs.js
+checkout.feature  | checkoutdefs.js
 ```
 
 ##
