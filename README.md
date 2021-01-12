@@ -12,7 +12,7 @@ Additional VSCode Plugins such as ESLint, Prettier, and Cucumber (Gherkin) Full 
 
 ## Testing
 
-1. All the tests can be run, and will be ran all at once with `npm test`. However, I do not recommend this, as there were a lot of collision errors with each test case when ran all together (probably due to the way I had setup the Selenium Webdriver)
+1. All the tests can be run, and will be ran all at once with `npm test`. However, I do not recommend this, as there were a lot of collision errors the test cases when ran all together (probably due to the way I had setup the Selenium Webdriver)
 
 2. Instead I suggest running each feature one at a time. To do so, first find the corresponding step_definitions file and uncomment the entire file.
 
