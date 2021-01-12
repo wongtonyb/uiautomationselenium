@@ -42,7 +42,7 @@ login.feature / logindefs.js
 sortItems.feature / sortItemsdefs.js
 addRemove.feature / addRemovedefs.js
 checkout.feature / checkoutdefs.js
-```sh
+```
 
 ##
 
