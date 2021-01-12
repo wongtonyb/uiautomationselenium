@@ -1,0 +1,19 @@
+{
+  "name": "uiautomationselenium",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@cucumber/cucumber": "^7.0.0"
+  },
+  "dependencies": {
+    "chromedriver": "^87.0.5",
+    "selenium-webdriver": "^4.0.0-alpha.8"
+  }
+}
