@@ -25,7 +25,7 @@ Ctrl + 'a'
 Ctrl + '/'
 ```
 
-Then open a terminal and run the corresponding features file
+Then open up a terminal and test the corresponding features file
 
 ```sh
 npm test features/login.feature
